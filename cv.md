@@ -22,6 +22,7 @@ order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
 structured documents.
 _____________________     ______________________
+
 Skills
 ------
 Data Bases: SQL.
