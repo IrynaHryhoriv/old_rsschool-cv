@@ -1,16 +1,19 @@
-Iryna Hryhoriv           ![F](/Users/ywko/RS_S/Hello.png)
-
+Iryna Hryhoriv 
 ==============
-
 ---------------------     ---------------------
 
-** Contact information:
+Contact information:
+--------------------
 
-** Location:**  Irvine, USA
-** E-mail:**    irina.hr@gmail.com
-** GitHub:**    IrynaHryhoriv
-** Telegram:** @Iryna_Black
-** Discord:**   IrynaBlack#8346
+**Location:**  Irvine, USA
+
+**E-mail:**    irina.hr@gmail.com
+
+**GitHub:**    IrynaHryhoriv
+
+**Telegram:** @Iryna_Black
+
+**Discord:**   IrynaBlack#8346
 
 ---------------------     ----------------------
 Focused on creating collaborative effort and between support and engineering teams to implement system
@@ -18,7 +21,10 @@ or product level changes to benefit end users. Ability to learn quickly, often i
 order to fully understand a new product, platform or any mixture of the two.
 I carefully check the smallest details, do an excellent cope with several tasks at once. I like to write clear,
 structured documents
-_____________________     ______________________
+
+---------------------------------------------------
+
+
 Skills
 ------
 Data Bases: SQL.
