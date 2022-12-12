@@ -51,14 +51,12 @@ const rps = (p1, p2) => {
 
 Education
 ---------
-
 2022-2023 (expected)
 :   **Master, Computer Science in JS/FE**; RS SCHOOL [RS School](https://rs.school/).
 
 Experience
 ----------
 **Job search**
-
 Languages:
 ----------
     * English   - Intermediate
